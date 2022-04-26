@@ -1,0 +1,7 @@
+Aktifkan XAMPP
+Ekstrak Project ke dalam folder xampp>htdocs
+
+akses link ini
+http://localhost/D-Lemas/web/about
+http://localhost/D-Lemas/Web
+http://localhost/D-Lemas/web/cetak
